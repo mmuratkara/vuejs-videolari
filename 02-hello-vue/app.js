@@ -5,7 +5,7 @@ window.addEventListener('load', () => {
     data: {
       message: 'Hello World!',
       isLoggedIn: true,
-      username: 'Fatih'
+      username: 'Murat'
     }
   })
 
